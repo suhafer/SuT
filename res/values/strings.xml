@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SuT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Refresh</string>
+    <string name="welcome">Welcome to SuT</string>
+    <string name="notes">You need to sign into Twitter to authorize the app</string>
+    <string name="Login">Login</string>
+    <string name="Logout">Log Out</string>
+    <string name="Home">HOME</string>
+    <string name="Tweet">TWEET</string>
+    <string name="retweet">RETWEET</string>
+    <string name="reply">REPLY</string>
+    <string name="note">What do you want to tweet?</string>
+    <string name="send">SEND</string>
+    <string name="title_activity_tweet_list">TweetListActivity</string>
+    <string name="header">HEADER</string>
+    <string name="body">BODY</string>
+    <string name="time">TIME</string>
+
+</resources>
